@@ -6,7 +6,7 @@ Regarding OCPdude: I highly recommend that if you need assistance with OpenShift
 
 If you'd like to collaborate on any of these project repos, please do! I believe we learn and develop valuable skills when we act as a team.
 
-When I'm not hacking or gaming, I'm on an adventure as an avid wilderness backpacker. Being on the east coast provides fantastic access the Blue Ridge, Shenandoah, and Smoky Mountains, along with many wilderness areas along the Appalachians.
+When I'm not hacking or gaming, I'm on an adventure as an avid wilderness backpacker. Being on the east coast provides fantastic access to the Blue Ridge, Shenandoah, and Smoky Mountains, along with many wilderness areas along the Appalachians.
 
 Upcoming lectures/events:
 18/FEB/22 - The Engineening Design Process, Lakeville, MA
