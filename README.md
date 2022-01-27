@@ -10,5 +10,3 @@ When I'm not hacking or gaming, I'm on an adventure as an avid wilderness backpa
 
 Upcoming lectures/events:
 18/FEB/22 - The Engineening Design Process, Lakeville, MA
-
-Ask me about [VuWing](https://vuwing.com)! As the founder, inventor and company president, I'm always excited to talk about the product journey.
