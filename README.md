@@ -9,5 +9,3 @@ If you'd like to contribute to any of these projects, please do! I enjoy learnin
 
 When I'm not hacking or gaming, I'm on an adventure as an avid wilderness backpacker. Being on the east coast provides fantastic access to the Blue Ridge, Shenandoah, and Smoky Mountains, along with many wilderness areas along the Appalachians. 🥾 🏕
 
-Upcoming lectures/events:
-18/FEB/22 - The Engineening Design Process, Lakeville, MA
