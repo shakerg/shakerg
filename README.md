@@ -1,5 +1,3 @@
-### Hi there 👋 
-
 Welcome to my GitHub repo!\
 Here you'll find garbage I hack around on, but more importanly you'll find the source for images provided on my Docker Hub account [shaker242](https://hub.docker.com/u/shaker242) and in-progress content related to the [OCPdude YouTube channel](https://www.youtube.com/c/OCPdude).
 
